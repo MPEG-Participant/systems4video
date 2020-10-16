@@ -1,5 +1,5 @@
 # AHG on Systems Functionalities for Video Conformance
-
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Name         | AHG on Systems Functionalities for Video Conformance                                                                                                                          |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mandates     | 1. Collect systems-relevant use cases and functionalities that need support in video codec implementations based on the justification and background in document WG3 N00048.  |
@@ -14,15 +14,16 @@
 | Subscribe    | https://lists.aau.at/mailman/listinfo/systems4video                                                                                                                           |
 |              |                                                                                                                                                                               |
 | Meeting      | Conference Calls                                                                                                                                                              |
-|              | • Friday, November 6, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 4, 2020 23:00 UTC.                                                   |
-|              | • Friday, November 20, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 18, 2020 23:00 UTC.                                                 |
-|              | • Friday, December 4, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 2, 2020 23:00 UTC.                                                   |
-|              | • Friday, December 18, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 16, 2020 23:00 UTC.                                                 |
+|              | - Friday, November 6, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 4, 2020 23:00 UTC.                                                    |
+|              | - Friday, November 20, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 18, 2020 23:00 UTC.                                                 |
+|              | - Friday, December 4, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 2, 2020 23:00 UTC.                                                   |
+|              | - Friday, December 18, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 16, 2020 23:00 UTC.                                                 |
 |              |                                                                                                                                                                               |
 |              | Logistics                                                                                                                                                                     |
-|              | • Zoom: http://iso.zoom.us/my/stockhammer, Passwd the one from MPEG#132                                                                                                       |
-|              | • If MPEG#133 repository is not yet available, use MPEG#132 repository.                                                                                                       |
+|              | - Zoom: http://iso.zoom.us/my/stockhammer, Passwd the one from MPEG#132                                                                                                       |
+|              | - If MPEG#133 repository is not yet available, use MPEG#132 repository.                                                                                                       |
 |              |                                                                                                                                                                               |
 |              | Calendar                                                                                                                                                                      |
-|              | • Subscription link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/remote.php/dav/public-calendars/HAwkATGsmc5bN3Qy?export                                             |
-|              | • Public link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/index.php/apps/calendar/p/HAwkATGsmc5bN3Qy                                                                |
+|              | - Subscription link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/remote.php/dav/public-calendars/HAwkATGsmc5bN3Qy?export                                             |
+|              | - Public link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/index.php/apps/calendar/p/HAwkATGsmc5bN3Qy                                                                |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
