@@ -14,10 +14,10 @@
 | Subscribe    | https://lists.aau.at/mailman/listinfo/systems4video                                                                                                                           |
 |              |                                                                                                                                                                               |
 | Meeting      | Conference Calls                                                                                                                                                              |
-|              | - Friday, November 6, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 4, 2020 23:00 UTC.                                                    |
-|              | - Friday, November 20, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 18, 2020 23:00 UTC.                                                 |
-|              | - Friday, December 4, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 2, 2020 23:00 UTC.                                                   |
-|              | - Friday, December 18, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 16, 2020 23:00 UTC.                                                 |
+|              | Friday, November 6, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 4, 2020 23:00 UTC.                                                    |
+|              | Friday, November 20, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday November 18, 2020 23:00 UTC.                                                 |
+|              | Friday, December 4, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 2, 2020 23:00 UTC.                                                   |
+|              | Friday, December 18, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline Wednesday December 16, 2020 23:00 UTC.                                                 |
 |              |                                                                                                                                                                               |
 |              | Logistics                                                                                                                                                                     |
 |              | - Zoom: http://iso.zoom.us/my/stockhammer, Passwd the one from MPEG#132                                                                                                       |
