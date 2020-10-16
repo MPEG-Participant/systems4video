@@ -1,5 +1,4 @@
 # AHG on Systems Functionalities for Video Conformance
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Name         | AHG on Systems Functionalities for Video Conformance                                                                                                                          |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mandates     | 1. Collect systems-relevant use cases and functionalities that need support in video codec implementations based on the justification and background in document WG3 N00048.  |
@@ -26,4 +25,3 @@
 |              | Calendar                                                                                                                                                                      |
 |              | - Subscription link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/remote.php/dav/public-calendars/HAwkATGsmc5bN3Qy?export                                             |
 |              | - Public link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/index.php/apps/calendar/p/HAwkATGsmc5bN3Qy                                                                |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
