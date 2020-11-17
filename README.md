@@ -12,6 +12,7 @@
 |              | https://github.com/MPEGGroup/Systems4Video                                                                                                                                    |
 | Subscribe    | https://lists.aau.at/mailman/listinfo/systems4video                                                                                                                           |
 |              |                                                                                                                                                                               |
+| Minutes      | https://mpeg.expert/live/nextcloud/index.php/s/riJ2WykJtH3HEYa                                                                                                                 |
 | Meeting      | Conference Calls                                                                                                                                                              |
 |              | Friday, November 6, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline November 4, 2020 23:00 UTC.                                                    |
 |              | Friday, November 20, 2020 17:00 – 18:30 UTC (18:00 – 19:40 CET), submission deadline November 18, 2020 23:00 UTC.                                                 |
