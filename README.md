@@ -13,16 +13,16 @@
 | Subscribe    | https://lists.aau.at/mailman/listinfo/systems4video                                                                                                                           |
 |              |                                                                                                                                                                               |
 | Minutes      | https://mpeg.expert/live/nextcloud/index.php/s/riJ2WykJtH3HEYa                                                                                                                 |
-| Meeting      | Conference Calls                                                                                                                                                              |
+|Conference Calls      |                                                                                                                                                               |
 |              | Friday, November 6, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline November 4, 2020 23:00 UTC.                                                    |
 |              | Friday, November 20, 2020 17:00 – 18:30 UTC (18:00 – 19:40 CET), submission deadline November 18, 2020 23:00 UTC.                                                 |
 |              | Friday, December 4, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline December 2, 2020 23:00 UTC.                                                   |
 |              | Friday, December 18, 2020 14:30 – 16:00 UTC (15:30 – 17:00 CET), submission deadline December 16, 2020 23:00 UTC.                                                 |
 |              |                                                                                                                                                                               |
-|              | Logistics                                                                                                                                                                     |
+| Logistics              |                                                                                                                                                                     |
 |              | - Zoom: http://iso.zoom.us/my/stockhammer, Passwd the one from MPEG#132                                                                                                       |
 |              | - If MPEG#133 repository is not yet available, use MPEG#132 repository.                                                                                                       |
 |              |                                                                                                                                                                               |
-|              | Calendar                                                                                                                                                                      |
+| Calendar             |                                                                                                                                                                       |
 |              | - Subscription link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/remote.php/dav/public-calendars/HAwkATGsmc5bN3Qy?export                                             |
 |              | - Public link for MPEG AHG Calls: http://mpeg.expert/live/nextcloud/index.php/apps/calendar/p/HAwkATGsmc5bN3Qy                                                                |
